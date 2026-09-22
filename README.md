@@ -2,9 +2,9 @@
 
 # Hi, I'm Payal 👋
 
-### B.Tech CSE Student | Full-Stack Developer in Progress
+### B.Tech CSE Student | Full-Stack Development | Backend | DSA
 
-Building web applications, learning backend development, and improving my problem-solving skills.
+Building web applications, strengthening my backend skills, and exploring **Generative AI**.
 
 </div>
 
@@ -16,38 +16,64 @@ Building web applications, learning backend development, and improving my proble
 * 🌐 Learning **Full-Stack Web Development**
 * ⚙️ Interested in **Backend Development**
 * 🧠 Practicing **Data Structures & Algorithms with Python**
-* 🚀 Exploring **Docker & CI/CD**
-* 🌱 Currently focused on becoming a better software developer
+* 🤖 Exploring **Generative AI and AI-powered applications**
+* 🐳 Learning **Docker & CI/CD**
+* 🌱 Continuously improving my software development fundamentals
 
 ---
 
 ## 💻 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
 </p>
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,python" />
 </p>
 
-### Tools & DevOps
+### 🧠 DSA
+
+**Python • Problem Solving • Data Structures & Algorithms**
+
+Currently practicing:
+
+* Arrays & Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Linked Lists
+* Stacks & Queues
+* Trees
+* Recursion
+
+### 🤖 Generative AI
+
+Currently exploring:
+
+* LLM APIs
+* AI-powered applications
+* Integrating AI with web applications
+* RAG & Agentic AI — **exploring**
+
+### 🛠️ Tools & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
@@ -65,16 +91,16 @@ Backend Development
 REST APIs
 Authentication & Authorization
 Database Design
-Docker
-CI/CD
 Data Structures & Algorithms
+Docker & CI/CD
+Generative AI
 ```
 
 ---
 
 ## 🎯 Current Focus
 
-> Strengthening my foundations in full-stack and backend development while consistently improving my problem-solving skills.
+> Strengthening my foundations in **full-stack and backend development**, improving my **DSA and problem-solving skills**, and gradually exploring how **Generative AI can be integrated into modern applications**.
 
 ---
 
@@ -96,6 +122,10 @@ Data Structures & Algorithms
 
 <a href="https://github.com/B-Payal">
   <img src="https://img.shields.io/badge/GitHub-B--Payal-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/payal-berwal">
+  <img src="https://img.shields.io/badge/LinkedIn-Payal%20Berwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
