@@ -104,18 +104,6 @@ Generative AI
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=B-Payal&show_icons=true&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Payal&layout=compact&hide_border=true" height="160"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
